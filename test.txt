@@ -7,6 +7,10 @@ abdelmalek adyatar
 Farah 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Faty
 =======
+=======
+
 Chaimae
+
